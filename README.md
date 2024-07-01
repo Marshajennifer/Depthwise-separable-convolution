@@ -1,5 +1,6 @@
 # Depthwise-separable-convolution
-Depthwise separable convolution from scratch
+Depthwise separable convolution from scratch.
+You can find the implementation of same code using normal convolution here. 'https://github.com/Marshajennifer/Visualise-CNN-layer-outputs'
 
 # Dataset
 We are using CIFAR10 dataset which consists of 10 classes which are 'plane', 'car', 'bird', 'cat', 'deer', 'dog', 'frog', 'horse', 'ship', 'truck'.
